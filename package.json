@@ -1,0 +1,23 @@
+{
+  "name": "correcao-de-simulado",
+  "version": "1.0.0",
+  "description": "## Descrição Aplicação desktop em Python com Tkinter para automatizar a correção de provas de múltipla escolha, calculando acertos e percentual de desempenho.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUITIKL/Correcao-de-Simulado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YUITIKL/Correcao-de-Simulado/issues"
+  },
+  "homepage": "https://github.com/YUITIKL/Correcao-de-Simulado#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
